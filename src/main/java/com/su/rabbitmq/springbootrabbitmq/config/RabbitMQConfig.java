@@ -39,4 +39,10 @@ public class RabbitMQConfig {
                 .to(exchange())
                 .with(routingKey);
     }
+
+    
+
+    //connection factory
+    //rabbit template
+    //rabbit admin
 }
